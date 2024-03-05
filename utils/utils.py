@@ -2,8 +2,7 @@ import random
 import numpy as np
 
 def batch(iterable, batch_size):
-    """Yields lists by bat
-    """
+    # Yields lists by bat
     b = []
     for i, t in enumerate(iterable):
         b.append(t)
