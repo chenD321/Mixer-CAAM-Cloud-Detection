@@ -2,3 +2,4 @@
   Chenyu Dong, Guanyi Li, Yixiao Gu, Junjie Zhang and Dan Zeng
   
 ## Network Overview
+ ![Image](overall architecture.png)
