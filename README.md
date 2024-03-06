@@ -2,4 +2,4 @@
   Chenyu Dong, Guanyi Li, Yixiao Gu, Junjie Zhang and Dan Zeng
   
 ## Network Overview
- ![Image](overall architecture.png)
+ ![Image](https://github.com/chenD321/Mixer-CAAM-Cloud-Detection/blob/main/overall%20architecture.png)
